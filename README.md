@@ -6,25 +6,26 @@ Escreva trechos de códigos que justiquem a necessidade da existencia dos temas 
 
 1. Classes e objetos [link-1] (https://www.typescriptlang.org/play/?#code/PTDCBsEMGdoU2gAjog9gIwFZwC6ugFAHABUiAotDpItKuAK4DnAx6ogzgJbhcBeNGgGMosFAEFGAO1QBJAGKhEAB0gAnGmrjKt8KdTUcAtokjT2AE3aypVLjk6oCieXAtwN4RKEgGuUuFs4ADpEcVN0VDULSABzOBMorkDqGNM0LFx8FQ8jexQtBikuQ3xnXzUudEckAAoZIxQUIwqAW6EGKABKZDREIVQjZSjqRv12WoAzLQBHBhT1HoTjGgAv4qFIZwQcNU4GDQAaRHcjVFtdyCkrPoGpITh7SxQRGHgkFAxsPCR3REmoi1aFwhuAENsVGoAM8ADxBND+DCB0HsDEgrEs7CMRRuWjMwRIwCIr1gYXMCiUAG8CA04AAuWi7fyxADcBBaTI6UAZUiR6A8bIIdyoeyEeDU9UG9MZlSksWOHMqXMgPL5Hi61MQWsQOAAFlxoMFaYgALyIWls7U6-WGxVcZWmxB25VsgC+RGmcDmCwlXQZADdUFwLIhNdrhfQQuBULFagADADypnMtUgPQAJJS9QajVLXf1BulnZ0aJns7aKvaS-mdgBD-6zeb6K43ayKONdN0Ed1C85UZNFdhmgIAdzJg4ptQARABZHiBSBT44ARgATKuAMxbgBsAHZO0QzIPgp7vc3fYLSJRqLR6Mw2BxuLwBOkSfBxzIKSp1JptLofcYA4yCc1gXKieDOC4bgeGY3i+Oo-iBPAoThJAkTRHEyxJAsaQ0F8WRIMouT5IghTFKUhBapW1Q-IgkqNL0irtCWSy3IMwxqKMKQTKeTYGEsJhImsGxbFqOx7A4RwnAkfaXNc7DsHcDxPNJ-SiO8vT4bRfwAmoyIgsoYKUb0OiwvCqlCcCDjog+NzYvJpFwPihKQUK6mIAACmoqAWI4oaQVqtIMiKzKWuGPlcLEqCqkY-JqGFWo6HAAwxXFgpWsKuwMGKUT0dKIVyscAwWJF0XmmqajHElKXlbF6r+VaVrlrmDHDlKCWNc1xWlY63VRR1TU2sE1VDpCyWoB1PZWnAcLoCUXk+Y4tR+oggbBg1jVahGYLBNGsZxqAUIlVFDJlkNfWoK6HYDeFtiRrtMbxgAclKp1ZkNtJXQem1bX2917fGXlwEwZVnTmI1fZN3bErJkKLXgjqjp53m+XgtTLgADMuxxTgAKslUBWEuiDLgArBjB4EDo8OoMEM1VPNKNLQeQA)
    
-3. Atributos e métodos [link-2] ()
-4. Construtores (constructor) [link-3] ()
-5. Instanciação de objetos [link-4] ()
-6. Modificadores de acesso (public, private, protected) [link-5] ()
-7. Propriedades somente leitura (readonly)
-8. Métodos estáticos (static)
-9. Propriedades estáticas (static)
-10. Encapsulamento
-11. Herança
-12. Polimorfismo
-13. Abstração
-14. Getters e setters
-15. Classes abstratas (abstract)
-16. Métodos abstratos
-17. Sobrescrita de métodos (override)
-18. Sobrecarga de métodos (method overloading)
-19. Parâmetros opcionais em métodos
-20. Parâmetros padrão
-21. Herança simples
-22. Cadeia de herança
-23. Tratamento de exceções (throw, try, catch)
-24. Classes e herança de classes de erro
+3. Atributos e métodos [link-2] (https://www.typescriptlang.org/play/?#code/PTCCBcCcEsCMFdwHsDOACApmgtgS+QCaoBQxwAVAFLwrjQBm0AxgIZ0BuLAXGsQJNoAdhiYYUKAIcwkaGTRkEsABQDyKoWJQs0KaOHgsA5wGOZxAA5JIAR3hYW46NjQEn0QfGhpttloLoELIouWAA27gAWDgA0vNgYoRFW2tqhGHrwkNrBTADPrgDmSLEytvbwAB7Q4dqC2th+iBiCJkgAdMQAcjJ5hTIssCzQFcWy6GwwCMjoAESCSPEzmGgzTOb0S5AY5lsozeAszg5orFlM4BiQALe0zA7EwfANaOaaSCyxzb7+Mqg4+EgiLN2NB2BgABQASiWWBm2CsWyhm22u32h28hgAr2I0GViJosEhYAArDDIF6ArBbFjhABeLEgbXIwFITFCDnQSjeLAA3sR5vEAIQ8WgwQQFADcxDW9GFQiesEuUuIILBUJ47CQ0AIfLQepOSEEKCQaTaoSQBXBAAMACQ88ARaAoNoCjAAX1i7hQTBgByEMgAwkoAGI8O0Op1tGVuzC0CRoVUsNpWyFSt2keGQRGQjVanXEfUGo0mjBmi3W8OO52uj1oL0+vS1QMhsP2qtR9Yx+g0kQYeDJyHEdPpshUGh0RisDjcYjqeQhNCqdTCcTaXT6IymF6XbB6KkosRoyBoJ5oApsHoLOTOImk5DRYiG4J7GjeKBwRB-BkNWnNdEoAx0FOFhzkuG46FYdAsBfdA8EIP5FEYYRsGIADjiMbFnS6Hp8mgIpvEGYZRi-d8pj+OYFgwGEVm1IIqLPAxIECI50HcegrAaLEcSIYhz3vTBBG+ck-jgwFyN3BkkWWGYiEgXdICkrYdkPfx0SYBZLEgA54h+FBiDKbctOaUQjhkHZch2aBfhJMl2mZUhpXZcQ0AAcQvNBdX1V0RXfcUpULWjFB4DxsEVSBlULdSjSgeBziscFvJ0XyCk9QIgvlULLkhTy9QjatKLQABef14n8-U8raQKsGKqq01IQsJIUnMEzzDyC0LfUouNU1zUtW020jGsXGgWkeAAWWgFh4EFFMyr1EdC1k+T1Ra7U2o6zrDW60teorAb8viGMxHAeMlvcIgBzmtBh1ZLbwDPdziuEAB3VyL3BGYJvFKaZliABGVNSD49pGqhKVgbaM6molIA)
+   
+5. Construtores (constructor) [link-3] ()
+6. Instanciação de objetos [link-4] ()
+7. Modificadores de acesso (public, private, protected) [link-5] ()
+8. Propriedades somente leitura (readonly)
+9. Métodos estáticos (static)
+10. Propriedades estáticas (static)
+11. Encapsulamento
+12. Herança
+13. Polimorfismo
+14. Abstração
+15. Getters e setters
+16. Classes abstratas (abstract)
+17. Métodos abstratos
+18. Sobrescrita de métodos (override)
+19. Sobrecarga de métodos (method overloading)
+20. Parâmetros opcionais em métodos
+21. Parâmetros padrão
+22. Herança simples
+23. Cadeia de herança
+24. Tratamento de exceções (throw, try, catch)
+25. Classes e herança de classes de erro
