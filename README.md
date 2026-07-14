@@ -6,35 +6,31 @@ Escreva trechos de códigos que justiquem a necessidade da existencia dos temas 
 
 1. Classes e objetos [link-1] (https://www.typescriptlang.org/play/?#code/PTDCBsEMGdoU2gAjog9gIwFZwC6ugFAHABUiAotDpItKuAK4DnAx6ogzgJbhcBeNGgGMosFAEFGAO1QBJAGKhEAB0gAnGmrjKt8KdTUcAtokjT2AE3aypVLjk6oCieXAtwN4RKEgGuUuFs4ADpEcVN0VDULSABzOBMorkDqGNM0LFx8FQ8jexQtBikuQ3xnXzUudEckAAoZIxQUIwqAW6EGKABKZDREIVQjZSjqRv12WoAzLQBHBhT1HoTjGgAv4qFIZwQcNU4GDQAaRHcjVFtdyCkrPoGpITh7SxQRGHgkFAxsPCR3REmoi1aFwhuAENsVGoAM8ADxBND+DCB0HsDEgrEs7CMRRuWjMwRIwCIr1gYXMCiUAG8CA04AAuWi7fyxADcBBaTI6UAZUiR6A8bIIdyoeyEeDU9UG9MZlSksWOHMqXMgPL5Hi61MQWsQOAAFlxoMFaYgALyIWls7U6-WGxVcZWmxB25VsgC+RGmcDmCwlXQZADdUFwLIhNdrhfQQuBULFagADADypnMtUgPQAJJS9QajVLXf1BulnZ0aJns7aKvaS-mdgBD-6zeb6K43ayKONdN0Ed1C85UZNFdhmgIAdzJg4ptQARABZHiBSBT44ARgATKuAMxbgBsAHZO0QzIPgp7vc3fYLSJRqLR6Mw2BxuLwBOkSfBxzIKSp1JptLofcYA4yCc1gXKieDOC4bgeGY3i+Oo-iBPAoThJAkTRHEyxJAsaQ0F8WRIMouT5IghTFKUhBapW1Q-IgkqNL0irtCWSy3IMwxqKMKQTKeTYGEsJhImsGxbFqOx7A4RwnAkfaXNc7DsHcDxPNJ-SiO8vT4bRfwAmoyIgsoYKUb0OiwvCqlCcCDjog+NzYvJpFwPihKQUK6mIAACmoqAWI4oaQVqtIMiKzKWuGPlcLEqCqkY-JqGFWo6HAAwxXFgpWsKuwMGKUT0dKIVyscAwWJF0XmmqajHElKXlbF6r+VaVrlrmDHDlKCWNc1xWlY63VRR1TU2sE1VDpCyWoB1PZWnAcLoCUXk+Y4tR+oggbBg1jVahGYLBNGsZxqAUIlVFDJlkNfWoK6HYDeFtiRrtMbxgAclKp1ZkNtJXQem1bX2917fGXlwEwZVnTmI1fZN3bErJkKLXgjqjp53m+XgtTLgADMuxxTgAKslUBWEuiDLgArBjB4EDo8OoMEM1VPNKNLQeQA)
    
-3. Atributos e métodos [link-2] (https://www.typescriptlang.org/play/?#code/PTCCBcCcEsCMFdwHsDOACApmgtgS+QCaoBQxwAVAFLwrjQBm0AxgIZ0BuLAXGsQJNoAdhiYYUKAIcwkaGTRkEsABQDyKoWJQs0KaOHgsA5wGOZxAA5JIAR3hYW46NjQEn0QfGhpttloLoELIouWAA27gAWDgA0vNgYoRFW2tqhGHrwkNrBTADPrgDmSLEytvbwAB7Q4dqC2th+iBiCJkgAdMQAcjJ5hTIssCzQFcWy6GwwCMjoAESCSPEzmGgzTOb0S5AY5lsozeAszg5orFlM4BiQALe0zA7EwfANaOaaSCyxzb7+Mqg4+EgiLN2NB2BgABQASiWWBm2CsWyhm22u32h28hgAr2I0GViJosEhYAArDDIF6ArBbFjhABeLEgbXIwFITFCDnQSjeLAA3sR5vEAIQ8WgwQQFADcxDW9GFQiesEuUuIILBUJ47CQ0AIfLQepOSEEKCQaTaoSQBXBAAMACQ88ARaAoNoCjAAX1i7hQTBgByEMgAwkoAGI8O0Op1tGVuzC0CRoVUsNpWyFSt2keGQRGQjVanXEfUGo0mjBmi3W8OO52uj1oL0+vS1QMhsP2qtR9Yx+g0kQYeDJyHEdPpshUGh0RisDjcYjqeQhNCqdTCcTaXT6IymF6XbB6KkosRoyBoJ5oApsHoLOTOImk5DRYiG4J7GjeKBwRB-BkNWnNdEoAx0FOFhzkuG46FYdAsBfdA8EIP5FEYYRsGIADjiMbFnS6Hp8mgIpvEGYZRi-d8pj+OYFgwGEVm1IIqLPAxIECI50HcegrAaLEcSIYhz3vTBBG+ck-jgwFyN3BkkWWGYiEgXdICkrYdkPfx0SYBZLEgA54h+FBiDKbctOaUQjhkHZch2aBfhJMl2mZUhpXZcQ0AAcQvNBdX1V0RXfcUpULWjFB4DxsEVSBlULdSjSgeBziscFvJ0XyCk9QIgvlULLkhTy9QjatKLQABef14n8-U8raQKsGKqq01IQsJIUnMEzzDyC0LfUouNU1zUtW020jGsXGgWkeAAWWgFh4EFFMyr1EdC1k+T1Ra7U2o6zrDW60teorAb8viGMxHAeMlvcIgBzmtBh1ZLbwDPdziuEAB3VyL3BGYJvFKaZliABGVNSD49pGqhKVgbaM6molIA)
+2. Atributos e métodos [link-2] (https://www.typescriptlang.org/play/?#code/PTCCBcCcEsCMFdwHsDOACApmgtgS+QCaoBQxwAVAFLwrjQBm0AxgIZ0BuLAXGsQJNoAdhiYYUKAIcwkaGTRkEsABQDyKoWJQs0KaOHgsA5wGOZxAA5JIAR3hYW46NjQEn0QfGhpttloLoELIouWAA27gAWDgA0vNgYoRFW2tqhGHrwkNrBTADPrgDmSLEytvbwAB7Q4dqC2th+iBiCJkgAdMQAcjJ5hTIssCzQFcWy6GwwCMjoAESCSPEzmGgzTOb0S5AY5lsozeAszg5orFlM4BiQALe0zA7EwfANaOaaSCyxzb7+Mqg4+EgiLN2NB2BgABQASiWWBm2CsWyhm22u32h28hgAr2I0GViJosEhYAArDDIF6ArBbFjhABeLEgbXIwFITFCDnQSjeLAA3sR5vEAIQ8WgwQQFADcxDW9GFQiesEuUuIILBUJ47CQ0AIfLQepOSEEKCQaTaoSQBXBAAMACQ88ARaAoNoCjAAX1i7hQTBgByEMgAwkoAGI8O0Op1tGVuzC0CRoVUsNpWyFSt2keGQRGQjVanXEfUGo0mjBmi3W8OO52uj1oL0+vS1QMhsP2qtR9Yx+g0kQYeDJyHEdPpshUGh0RisDjcYjqeQhNCqdTCcTaXT6IymF6XbB6KkosRoyBoJ5oApsHoLOTOImk5DRYiG4J7GjeKBwRB-BkNWnNdEoAx0FOFhzkuG46FYdAsBfdA8EIP5FEYYRsGIADjiMbFnS6Hp8mgIpvEGYZRi-d8pj+OYFgwGEVm1IIqLPAxIECI50HcegrAaLEcSIYhz3vTBBG+ck-jgwFyN3BkkWWGYiEgXdICkrYdkPfx0SYBZLEgA54h+FBiDKbctOaUQjhkHZch2aBfhJMl2mZUhpXZcQ0AAcQvNBdX1V0RXfcUpULWjFB4DxsEVSBlULdSjSgeBziscFvJ0XyCk9QIgvlULLkhTy9QjatKLQABef14n8-U8raQKsGKqq01IQsJIUnMEzzDyC0LfUouNU1zUtW020jGsXGgWkeAAWWgFh4EFFMyr1EdC1k+T1Ra7U2o6zrDW60teorAb8viGMxHAeMlvcIgBzmtBh1ZLbwDPdziuEAB3VyL3BGYJvFKaZliABGVNSD49pGqhKVgbaM6molIA)
 
+3. Construtores (constructor) [link-3] (https://www.typescriptlang.org/play/?#code/PQKgUgrgzgLglgMzgYwIbwG6oFwAIByA9rsgM8AmcA5sagEapwAehANLgKYS4TwA2cAF4c4uYskIA7WACcIyGIRm4ADqhmpccSSjioBg9WKi50MuHV6ET5Tcj6ooUDqwBQuGR2Qc6HSeWJrXCw+JQ4bILUZACOAWw4YGSCOU0SLCG0AklRbHljcAAOTFSSSuA5bcnDcKvt1HMdcd1y6pxctJ2IODDgYTQBHCBSOJjhYTUI6ACsEoO0JWJU+WZMUz3IIQVNcSS9wqDhKlKrU80s4AHOAV+rY1EkIRhNUFVJn921xyWQ9C4BjwggYDudy4MGtEwAYVQyAAFkokgBvJpgsGSQjxPCybRUADcKNRhxyHDwD1ivhk+NBYI0aCxaUkeKa1JIUlk8kUMgAFOjMbhsYz2ESqqSIOSODJ2LScAKqABKREsmCwsYAOl5KQAvDsMRwqajcMq1cKtVojvrUUaoKrpbhtdKLWCAL7uJ3M8FsmDZOEI4ja3YAd1w0J9MiSXIARAAhWYR9gAZnYEYACoRCORlhG5VTQaBILBECh0HAsHgwABDnb7FKEXhJEgUahsXB3SSYFJUDT+FKgqIwY6aPikKhFnj8IQNUw-O7sdGcNv3RSmSg-KQiPIEuihCSs-KacKJXgQDSs-y6KT6XARxBx+cwAGmQaifQAS-yJ1B-eUmm0un0E-+ZtxEbGhDVQck3w8Dh-0MPJNBCIlAJqIJKiCTxvDoQ5rFVIF3VRCFcAAcXQYhkRZDV6XMRlHTNYlRXFSkCRpGEcH5BkmVcFkJGkQ8FCUHldUonEhSOeiKSlFihMZOVcDIg1EFwLkTVwAAeXAAAYZLky1YSSINA1wABRMN+IjABBWiTkkB8VHTFJnGUeJ0WUQYUmEJIAEIs3xF0lRVa0NTtHV4hoq1VWU7UTVC-ybRYoKHRRN1XXdbjYFwKgSKCgziMUSMADFQhkW8ACYkwAZT0eIoG81wgA)
+   
+4. Instanciação de objetos [link-4] ()]
+   
+5. Modificadores de acesso (public, private, protected) [link-5] ()
 
+6. Propriedades somente leitura (readonly) [link-6] ()
 
-   /*Justificativa: No código abaixo, eu utilizei
- o constructor para inicializar os atributos manualmente,
-  recebendo os valores dos parâmetros e atribuindo cada
-   um às propriedades declaradas da classe. Isso evita que
-    dê undefined. */ 
-    class Cachorro{ nome: string; idade: number; raca: string; constructor(nome: string, idade: number, raca:string){ this.nome = nome; this.idade = idade; this.raca = raca; } } const cachorro = new Cachorro("Beto", 3, "Poodle"); /*Justificativa: Já nesse outro código, mantive grande parte da lógica utilizada acima, no entanto adicionei um bloco com a estrutura condicional "if", então aqui além de ter a inicialização, o código realiza uma validação dos dados recebidos. */ class Gato { nome: string; idade: number; raca: string; constructor(nome: string, idade: number, raca: string) { if (idade < 0) { throw new Error("A idade não pode ser menor que zero, mané!"); } this.nome = nome; this.idade = idade; this.raca = raca; } } 
-const gato = new Gato("Flor", 2, "Siames");
-5. Construtores (constructor) [link-3] ()
-6. Instanciação de objetos [link-4] ()
-7. Modificadores de acesso (public, private, protected) [link-5] ()
-8. Propriedades somente leitura (readonly)
-9. Métodos estáticos (static)
-10. Propriedades estáticas (static)
-11. Encapsulamento
-12. Herança
-13. Polimorfismo
-14. Abstração
-15. Getters e setters
-16. Classes abstratas (abstract)
-17. Métodos abstratos
-18. Sobrescrita de métodos (override)
-19. Sobrecarga de métodos (method overloading)
-20. Parâmetros opcionais em métodos
-21. Parâmetros padrão
-22. Herança simples
-23. Cadeia de herança
-24. Tratamento de exceções (throw, try, catch)
-25. Classes e herança de classes de erro
+7. Métodos estáticos (static) [link-7] ()
+
+8. Propriedades estáticas (static)[link-8] ()
+9. Encapsulamento
+13. Herança
+14. Polimorfismo
+15. Abstração
+16. Getters e setters
+17. Classes abstratas (abstract)
+18. Métodos abstratos
+19. Sobrescrita de métodos (override)
+20. Sobrecarga de métodos (method overloading)
+21. Parâmetros opcionais em métodos
+22. Parâmetros padrão
+23. Herança simples
+24. Cadeia de herança
+25. Tratamento de exceções (throw, try, catch)
+26. Classes e herança de classes de erro
