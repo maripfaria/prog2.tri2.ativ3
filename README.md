@@ -28,14 +28,15 @@ Escreva trechos de códigos que justiquem a necessidade da existencia dos temas 
 
 12. Abstração [link-12] - (https://www.typescriptlang.org/play/?#code/PTCCCMGcBcCcEMDnBjg9gKHcAVAKQK4wCWAZkQMbzREBu8AXOqAATxRxJrMmpHP7UANkQBe8ACbxmAB3gJmsAKbSlkRQDtoc1tI3xIrA5QTloi2AFvilA4vRIAr4oMBbeEQNEX01LC2bnZnFFfhdmdVQzcFRUAGsAOmYAEWdIKR5YNwAaIMUtQQALQKIA2AjILPRyVBdUZjqSfHVyIlR1eBcNaDrxOpVUclSJXxzJZk6XAGfYIilUfCDUIxqfdS7ndEVBPNgAF-UKJZz1LhVFFrSwtVhxpY5eityiAA94dV765nJJ8SIAczqbg8zEgXmk20gm24AEOWoJcsx1u9zPF0NhgJhyIJ9AYAHKRRTROIAb3QzHJII8ZjcAHldCZWu1BPQQXASn8ANyYClfNowWD4Uy+AAUoJgilp9PgLTa8GZrJm6j+AEpSTyedACh54mLqfA6eZpYy5cwALyU8WSw0yplcnkAX25FOEfzkwuVLJovHEavV5Oq6kgqG28UEqD+woABjTwgSibFeWEACTEzXa3US-VSm1y+3cXjMF3DeKR5V2imOskU4KQIuwd2e72+v0BoMhsMR6OxqIxBPVZOprWQHVUzMGhmywR5nh8GtF3olstV8mOyut6Ddwm9s3hRQAd2Y+J7cWFACIAOolXp7gwARlvp6X6Aix4SdfdXJfW7i8Tn-zdT44AQxBkJQ1B0IwuLOGYiLPBK4KoDkUhsPynANAWAhEMIYhjLI8hKGcaiaNo8C6O0Bj6OgJQZG4iBOLYrB0YEqQaC07gGMEoRSAGWjMOAbzkNCMzwIkMaEPgQmtLygaKH8+B2K2+CCFoNx1GkggfCEShyqI2jBNIkygt0BhqGEZwXNoAZFIMNz9nUQyQqgUpMSZXDadhEj6MwJRmGUHTrKi6KYtikAGAAwm0WgAEICXIszNrGnQsvy7LluS6m9Cy6j4C44DmFyy7SfygrdPWERJQq7I5BlqBZTleWwKqhUakO8TlSE5rtWl6ppsONU7jV3WVjy+lLEQKnCnQYawHVuXmB6zBekQPrNRSvU6nKHwANTmlNvhDU6-p8kpKkAMqbagDaLU2q1HYGwaKKG4ZRudGm1cwABKSbMCm601fapYHWufIbjxUidfuzARcRMXNHF8BngAsvD7SnjkACsAAMmNPmDv7KGNE0AEzY0ueOKcpcivb0H5AA)
 
-13. Getters e setters [link-13] - ()
-14. Classes abstratas (abstract) - ()
-15. Métodos abstratos
-16. Sobrescrita de métodos (override)
-17. Sobrecarga de métodos (method overloading)
-18. Parâmetros opcionais em métodos
-19. Parâmetros padrão
-20. Herança simples
-21. Cadeia de herança
-22. Tratamento de exceções (throw, try, catch)
-23. Classes e herança de classes de erro
+13. Getters e setters [link-13] - (https://www.typescriptlang.org/play/?#code/PTDiFMBdPAnBnABOR8owQKE8AVAKQFd5IBLAM1IGMBDMgNxoC5MB5JAc3TiRTWh6JyAe1g0AtokJkANqQBeNACbCkABxpjEVYQDtIsYTM2JhiGlXDx4ZmrYOkARtOGYARGtjgdbgHSJWRC4BWEQ1OHFSGG09eEIZSBMzRhlRABpkXQBHQhp9MzN+DDCIqPBMGgS4AEOAWlTEJRQRWHEaGP1DYyUaDLRJCyt4JPMHZ0gzJVIvRPFwfXBfTFxgbCpja0QABUMlFwBvTERjxF1hOaZUB10OAG4jk89SRmjPb2FL3UJxRzh7h+OOl0JFghCoE1gAAozhcrrBSDcMm8dJ9vr9YABKQ4nHGISAAC1I8F8MJQAF5TudwPdcScCUTfMizBSmTSTgBfbA44KIcSqAyaHbvSEY1E-ODY2mIGaEWC6PGE4msgGITkq-jmKpiWBCnTQ4T0YS6j6nNFwLEqnH0pVeHSIClnQ3GtnHTlqoEkMK7Fz207gADu229E0hbgAKt5usI3BkAIwAVgADBj-h6jItUhxIZ5hHsJr4+SDBbbhCnsDm88JfJUMMX3r7YwAOROp2Lp3yZ7PBquFgU6ktlnAEYhkSi0BjMTAAOSs0XAAA9wOI1KkMqogtwEMhUJukC0JFJZAplOuNFpBtYTCga3BNBVEKQek1Gihvu1wtZhO1ny02h0DEYyg0P4ACC1ikOIa6jPC4xmOErR5N45Q5jAHCPsIGRtEgNAIj0YS5nwcAdHECQntudC5HIigqIgOR5DRuhIdY1TwlWyyrJg6w0JsWxDF+krHKSlwggidwqk8LwoI+yjgGK6L-DiHoGGCEL6rCImIg+T6yaa4qYgJuLWiSVK+qSLqGYqvjSc+FLWdSKpqtyUC8vy2oAJLaSKckSpaJwynKCoMnZ5mOScGo3u5nmOjQHkyd5+m+ccRl2aZBoxdpIWYO6sSQCUn7tA6AbbHxNChgAspopB5DQMaILGADsg5pjIGbCFmH42MBvaRTJg4dV+1ZaposU2XVjatsC7adv1XWucN2kpkAA)
+
+14. Classes abstratas (abstract) [link-14] - ()
+15. Métodos abstratos [link-15] - ()
+16. Sobrescrita de métodos (override) [link-16] - ()
+17. Sobrecarga de métodos (method overloading) [link-17] - ()
+18. Parâmetros opcionais em métodos [link-18] - ()
+19. Parâmetros padrão [link-19] - ()
+20. Herança simples [link-20] - ()
+21. Cadeia de herança [link-21] - ()
+22. Tratamento de exceções (throw, try, catch) [link-22] - ()
+23. Classes e herança de classes de erro [link-23] - ()
